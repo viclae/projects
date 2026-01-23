@@ -31,5 +31,6 @@ def bmi_calculator():
             print('Invalid input! Please enter numbers only.')
 
 
-if __name__ = '__main__':
+if __name__ == '__main__':
     bmi_calculator()
+
