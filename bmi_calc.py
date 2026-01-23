@@ -30,4 +30,6 @@ def bmi_calculator():
         except ValueError:
             print('Invalid input! Please enter numbers only.')
 
-bmi_calculator()
+
+if __name__ = '__main__':
+    bmi_calculator()
